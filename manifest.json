@@ -1,0 +1,13 @@
+{
+  "name": "AhorroJ - Control de Ahorros",
+  "short_name": "AhorroJ",
+  "start_url": "/ahorroj/",
+  "scope": "/ahorroj/",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#000000",
+  "description": "Aplicación para registrar y seguir mis ahorros diarios.",
+  "lang": "es-CO",
+  "orientation": "portrait-primary",
+  "icons": []
+}
